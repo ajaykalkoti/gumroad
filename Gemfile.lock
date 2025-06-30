@@ -1244,7 +1244,6 @@ DEPENDENCIES
   shoulda-matchers (~> 6.0)
   sidekiq (~> 7.2)
   sidekiq-cron (~> 1.9)
-  sidekiq-pro (~> 7.2)!
   sidekiq-unique-jobs (~> 8.0)
   sitemap_generator (~> 6.3)
   slack-notifier (~> 2.4)
