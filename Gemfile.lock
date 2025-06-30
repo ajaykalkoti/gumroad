@@ -35,7 +35,7 @@ GIT
 GEM
   remote: https://gems.contribsys.com/
   specs:
-    sidekiq-pro (7.3.3)
+    
       sidekiq (>= 7.3.0, < 8)
 
 GEM
