@@ -11,11 +11,7 @@ group :development do
   gem "derailed_benchmarks", "~> 2.1"
 end
 
-group :staging, :production do
-  source "https://gems.contribsys.com/" do
-    gem "sidekiq-pro", "~> 7.2"
-  end
-end
+
 
 group :development, :test do
   gem "bundler"
